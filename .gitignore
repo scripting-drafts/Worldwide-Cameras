@@ -1,0 +1,11 @@
+<<<<<<< HEAD
+__pycache__
+=======
+__pycache__
+geckodriver.log
+storm*
+Samples/sample_europe.csv
+Samples/Complete_*
+Samples/Europe*
+
+>>>>>>> 3804c98 (update and improvements preview)
