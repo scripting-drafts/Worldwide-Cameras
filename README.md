@@ -13,8 +13,17 @@
  - Add data to map  
 
 
-### How to use Samples/insert_weather.py   
+### How to use insert_weather.py   
   
 Add your OpenWeatherMap API  
 Find "var map" in the html and add its name to weatherLayer.addTo(mapname)  
 Run it with "streamlit run insert_weather.py"  
+  
+
+### Examples  
+[![Examples](https://i.imgur.com/KMvjRtR.png)]  
+[![Examples](https://i.imgur.com/6v7ZLJK.png)]  
+[![Examples](https://i.imgur.com/cYHUiq9.png)]  
+[![Examples](https://i.imgur.com/QX7bYoS.png)]  
+
+  
