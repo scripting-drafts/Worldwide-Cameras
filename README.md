@@ -15,9 +15,9 @@
 
 ### How to use insert_weather.py   
   
-Add your OpenWeatherMap API  
-Find "var map" in the html and add its name to weatherLayer.addTo(mapname)  
-Run it with "streamlit run insert_weather.py"  
+ - Add your OpenWeatherMap API  
+ - Find "var map" in the html and add its name to weatherLayer.addTo(mapname)  
+ - Run it with "streamlit run insert_weather.py"  
   
 
 ### Examples  
