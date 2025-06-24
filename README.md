@@ -21,9 +21,9 @@ Run it with "streamlit run insert_weather.py"
   
 
 ### Examples  
-[![Examples](https://i.imgur.com/KMvjRtR.png)]  
-[![Examples](https://i.imgur.com/6v7ZLJK.png)]  
-[![Examples](https://i.imgur.com/cYHUiq9.png)]  
-[![Examples](https://i.imgur.com/QX7bYoS.png)]  
+![Examples](https://i.imgur.com/KMvjRtR.png)  
+![Examples](https://i.imgur.com/6v7ZLJK.png)  
+![Examples](https://i.imgur.com/cYHUiq9.png)  
+![Examples](https://i.imgur.com/QX7bYoS.png)  
 
   
